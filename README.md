@@ -1,4 +1,4 @@
-# Flutter Interview Practical Test
+# TheraPsy Flutter Interview Practical Test
 
 ## Getting Started
 This is a quick flutter test to see what you are capable to achieve in a real world scenario.
@@ -6,8 +6,8 @@ This is a quick flutter test to see what you are capable to achieve in a real wo
 ## Rules
 
 1. You have a max of 45 minutes to complete this assignment;
-2. You can use the internet for research;
-3. If you don't understand an intruction please feel free to ask the interviewer;
+2. You can use google etc for research, however ChatGPT/Copilot and other AI models are not allowed;
+3. If you don't understand an instructions please feel free to ask the interviewer;
 4. The interviewer should not give you hints unless strictly necessary
 5. Let the interviewer know if you have finished the test earlier
 ### Instructions
@@ -17,8 +17,8 @@ This is a quick flutter test to see what you are capable to achieve in a real wo
 ![screenshot](/screenshot.jpeg)
 
 #### TASK 1 - Minor UI changes
-- The app shows a red ribbon on the appbar, it looks ugly, please remove it.
-- Change the app bar name to `The Interview`
+- The app shows a red "DEBUG" ribbon on the appbar, it looks ugly, please remove it.
+- Change the app bar name to `TheraPsy Interview Test`
 
 #### TASK 2 - List all users
 - List all the users on the home screen (Mock data should be in `data/mock_data.dart`)
@@ -33,7 +33,6 @@ This is a quick flutter test to see what you are capable to achieve in a real wo
 - Clean up the search controller when the widget is removed from the widget tree.
 
 ### TASK 4 - Features
-- When the app starts the keyboard should show and focus on the search
 - Add a search to filter that filters by user's first name, last name, role and email
 
 ### TASK 5 - Suggestions

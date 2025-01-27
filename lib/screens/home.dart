@@ -76,7 +76,13 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-            var newUser = User(id: "b32ec56c-21bb-4b7b-a3a0-635b8bca1f9d", avatar: null, firstName: "James", lastName: "May", email: "ssaull1c@tripod.com", role: "Developer");
+          var newUser = User(
+              id: "b32ec56c-21bb-4b7b-a3a0-635b8bca1f9d",
+              avatar: null,
+              firstName: "James",
+              lastName: "May",
+              email: "ssaull1c@tripod.com",
+              role: "Developer");
         },
         tooltip: 'Add new',
         child: Icon(Icons.add),

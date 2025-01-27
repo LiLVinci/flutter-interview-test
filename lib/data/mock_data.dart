@@ -18,7 +18,8 @@ allData() {
     },
     {
       "id": "2f23b6b6-bcaa-4b97-9143-a0b8cd3d6b95",
-      "avatar": "https://robohash.org/dignissimosrerumqui.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/dignissimosrerumqui.png?size=50x50&set=set1",
       "first_name": "Roderic",
       "last_name": "Gourley",
       "email": "rgourley2@technorati.com",
@@ -26,7 +27,8 @@ allData() {
     },
     {
       "id": "6611a088-846f-4608-b576-ed718a4c7d2b",
-      "avatar": "https://robohash.org/namevenietexcepturi.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/namevenietexcepturi.png?size=50x50&set=set1",
       "first_name": "Sharity",
       "last_name": "Sinclaire",
       "email": "ssinclaire3@irs.gov",
@@ -42,7 +44,8 @@ allData() {
     },
     {
       "id": "bf9c406b-f531-4d98-a24d-fbe128341bd4",
-      "avatar": "https://robohash.org/hicinventorelabore.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/hicinventorelabore.png?size=50x50&set=set1",
       "first_name": "Zenia",
       "last_name": "Maywood",
       "email": "zmaywood5@so-net.ne.jp",
@@ -66,7 +69,8 @@ allData() {
     },
     {
       "id": "3aef4e32-c600-4632-81a6-0f35ba4fd9b9",
-      "avatar": "https://robohash.org/abconsequaturmagnam.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/abconsequaturmagnam.png?size=50x50&set=set1",
       "first_name": "Xenos",
       "last_name": "Bulbeck",
       "email": "xbulbeck8@altervista.org",
@@ -74,7 +78,8 @@ allData() {
     },
     {
       "id": "9e659219-abf9-45eb-9d23-1da68f6b7699",
-      "avatar": "https://robohash.org/quiculpavoluptatem.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/quiculpavoluptatem.png?size=50x50&set=set1",
       "first_name": "Nanni",
       "last_name": "Dawkes",
       "email": "ndawkes9@narod.ru",
@@ -82,7 +87,8 @@ allData() {
     },
     {
       "id": "6046a310-82f1-4077-a8fb-885079ea5ddb",
-      "avatar": "https://robohash.org/laborumnemodolore.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/laborumnemodolore.png?size=50x50&set=set1",
       "first_name": "Lori",
       "last_name": "Georgeon",
       "email": "lgeorgeona@chron.com",
@@ -90,7 +96,7 @@ allData() {
     },
     {
       "id": "b909e00c-cef8-4f2f-a02f-5dab89af0398",
-      "avatar": "https://robohash.org/undeteneturperspiciatis.png?size=50x50&set=set1",
+      "avatar": "",
       "first_name": "Adore",
       "last_name": "Bezarra",
       "email": "abezarrab@freewebs.com",
@@ -98,7 +104,8 @@ allData() {
     },
     {
       "id": "8cb82367-1c29-4f40-9428-5a84366c1eab",
-      "avatar": "https://robohash.org/perspiciatissuntab.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/perspiciatissuntab.png?size=50x50&set=set1",
       "first_name": "Giulietta",
       "last_name": "Edgecombe",
       "email": "gedgecombec@ihg.com",
@@ -106,7 +113,8 @@ allData() {
     },
     {
       "id": "3cc8992c-23cb-45b5-aee3-8aac20c8c133",
-      "avatar": "https://robohash.org/utconsequaturillum.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/utconsequaturillum.png?size=50x50&set=set1",
       "first_name": "Steward",
       "last_name": "Kellick",
       "email": "skellickd@goodreads.com",
@@ -122,7 +130,8 @@ allData() {
     },
     {
       "id": "a0c63f1a-b789-4315-9124-d7a307aa011d",
-      "avatar": "https://robohash.org/quienimconsequatur.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/quienimconsequatur.png?size=50x50&set=set1",
       "first_name": "Clari",
       "last_name": "Gatrell",
       "email": "cgatrellf@ftc.gov",
@@ -138,7 +147,8 @@ allData() {
     },
     {
       "id": "106163d7-89f1-4ac5-8bcf-a64e20999264",
-      "avatar": "https://robohash.org/enimnecessitatibusamet.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/enimnecessitatibusamet.png?size=50x50&set=set1",
       "first_name": "Alaster",
       "last_name": "Purser",
       "email": "apurserh@nationalgeographic.com",
@@ -146,7 +156,8 @@ allData() {
     },
     {
       "id": "14a78326-e7df-41b0-8a36-9e9148b2193a",
-      "avatar": "https://robohash.org/iustoipsaexpedita.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/iustoipsaexpedita.png?size=50x50&set=set1",
       "first_name": "Kamilah",
       "last_name": "Riseborough",
       "email": "kriseboroughi@cloudflare.com",
@@ -162,7 +173,8 @@ allData() {
     },
     {
       "id": "4df2afdf-c14a-47fe-8033-eaac9cf5dc25",
-      "avatar": "https://robohash.org/corrupticonsequaturfacilis.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/corrupticonsequaturfacilis.png?size=50x50&set=set1",
       "first_name": "Valentino",
       "last_name": "Julien",
       "email": "vjulienk@comcast.net",
@@ -170,7 +182,8 @@ allData() {
     },
     {
       "id": "ec335def-15d7-4f3d-96a2-827292e1cbea",
-      "avatar": "https://robohash.org/consequaturnonanimi.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/consequaturnonanimi.png?size=50x50&set=set1",
       "first_name": "Devlin",
       "last_name": "Child",
       "email": "dchildl@kickstarter.com",
@@ -186,7 +199,8 @@ allData() {
     },
     {
       "id": "048a13f7-842e-4c80-8355-8070a0603b42",
-      "avatar": "https://robohash.org/corporisrepellatcumque.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/corporisrepellatcumque.png?size=50x50&set=set1",
       "first_name": "Jed",
       "last_name": "Dyte",
       "email": "jdyten@shutterfly.com",
@@ -194,7 +208,8 @@ allData() {
     },
     {
       "id": "4924e5f9-cddd-4316-b944-8612709d5294",
-      "avatar": "https://robohash.org/commodirerumvelit.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/commodirerumvelit.png?size=50x50&set=set1",
       "first_name": "Murdock",
       "last_name": "Yankeev",
       "email": "myankeevo@1und1.de",
@@ -210,7 +225,8 @@ allData() {
     },
     {
       "id": "376e8cb7-0ce1-419a-958f-97b119189893",
-      "avatar": "https://robohash.org/molestiaeullamarchitecto.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/molestiaeullamarchitecto.png?size=50x50&set=set1",
       "first_name": "Giorgi",
       "last_name": "Warrington",
       "email": "gwarringtonq@deviantart.com",
@@ -234,7 +250,8 @@ allData() {
     },
     {
       "id": "57daef9b-9153-4b46-a2ee-b6a9132b1f5c",
-      "avatar": "https://robohash.org/namevenietexcepturi.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/namevenietexcepturi.png?size=50x50&set=set1",
       "first_name": "Sal",
       "last_name": "Worham",
       "email": "sworhamt@buzzfeed.com",
@@ -250,7 +267,8 @@ allData() {
     },
     {
       "id": "2a2ce01e-1974-4fff-abe7-58753c976a5b",
-      "avatar": "https://robohash.org/molestiaevoluptatemest.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/molestiaevoluptatemest.png?size=50x50&set=set1",
       "first_name": "Cosimo",
       "last_name": "Have",
       "email": "chavev@google.nl",
@@ -266,7 +284,8 @@ allData() {
     },
     {
       "id": "7ec08ec4-69bc-4545-a238-b250549460ef",
-      "avatar": "https://robohash.org/odiodoloremnecessitatibus.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/odiodoloremnecessitatibus.png?size=50x50&set=set1",
       "first_name": "Larisa",
       "last_name": "Handrick",
       "email": "lhandrickx@stanford.edu",
@@ -274,7 +293,8 @@ allData() {
     },
     {
       "id": "aadf720c-4a42-4978-82fc-832cbeca8207",
-      "avatar": "https://robohash.org/voluptasquidemexpedita.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/voluptasquidemexpedita.png?size=50x50&set=set1",
       "first_name": "Blaire",
       "last_name": "Broadbent",
       "email": "bbroadbenty@unicef.org",
@@ -282,7 +302,8 @@ allData() {
     },
     {
       "id": "61f3a551-a7c8-4852-8945-e3e1603e36cc",
-      "avatar": "https://robohash.org/quiaconsequaturquis.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/quiaconsequaturquis.png?size=50x50&set=set1",
       "first_name": "Karolina",
       "last_name": "Danielli",
       "email": "kdanielliz@abc.net.au",
@@ -298,7 +319,8 @@ allData() {
     },
     {
       "id": "75078459-9820-49a9-9eef-4aff54736ac0",
-      "avatar": "https://robohash.org/aliquamnequeomnis.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/aliquamnequeomnis.png?size=50x50&set=set1",
       "first_name": "Marlo",
       "last_name": "Fairey",
       "email": "mfairey11@msu.edu",
@@ -306,7 +328,8 @@ allData() {
     },
     {
       "id": "117ec6ac-3ddd-46c5-a9dc-c329a7acb777",
-      "avatar": "https://robohash.org/veniamnumquamdelectus.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/veniamnumquamdelectus.png?size=50x50&set=set1",
       "first_name": "Isadora",
       "last_name": "Faires",
       "email": "ifaires12@tiny.cc",
@@ -322,7 +345,8 @@ allData() {
     },
     {
       "id": "c958e544-afc6-4596-b9c3-cb0d0e163fe6",
-      "avatar": "https://robohash.org/repudiandaevoluptasnulla.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/repudiandaevoluptasnulla.png?size=50x50&set=set1",
       "first_name": "Elaine",
       "last_name": "Empringham",
       "email": "eempringham14@auda.org.au",
@@ -330,7 +354,8 @@ allData() {
     },
     {
       "id": "3b885476-d3ba-4539-bbcc-7787309bd539",
-      "avatar": "https://robohash.org/minimanesciuntoptio.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/minimanesciuntoptio.png?size=50x50&set=set1",
       "first_name": "Francesca",
       "last_name": "Quye",
       "email": "fquye15@noaa.gov",
@@ -346,7 +371,8 @@ allData() {
     },
     {
       "id": "6a821ae8-c2d0-42f5-b085-ce24aee1d5ed",
-      "avatar": "https://robohash.org/repellataliasminus.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/repellataliasminus.png?size=50x50&set=set1",
       "first_name": "Lori",
       "last_name": "Normant",
       "email": "lnormant17@oracle.com",
@@ -354,7 +380,8 @@ allData() {
     },
     {
       "id": "7ba00e10-1a7a-4a1f-9b4c-3f63754a64e7",
-      "avatar": "https://robohash.org/faciliscupiditatetenetur.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/faciliscupiditatetenetur.png?size=50x50&set=set1",
       "first_name": "Tootsie",
       "last_name": "Boyington",
       "email": "tboyington18@posterous.com",
@@ -362,7 +389,8 @@ allData() {
     },
     {
       "id": "2300a2e5-b7b6-4501-8d0e-14df5485d39e",
-      "avatar": "https://robohash.org/faceredelectusdolorum.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/faceredelectusdolorum.png?size=50x50&set=set1",
       "first_name": "Grantham",
       "last_name": "Whitebrook",
       "email": "gwhitebrook19@delicious.com",
@@ -370,7 +398,8 @@ allData() {
     },
     {
       "id": "509e11d2-04e5-4d37-9cff-a7f54998ccbf",
-      "avatar": "https://robohash.org/quibusdamnecessitatibustemporibus.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/quibusdamnecessitatibustemporibus.png?size=50x50&set=set1",
       "first_name": "Gustie",
       "last_name": "Halhead",
       "email": "ghalhead1a@dedecms.com",
@@ -378,7 +407,8 @@ allData() {
     },
     {
       "id": "7c2b984f-ee24-4d3d-ba73-7c32d737033c",
-      "avatar": "https://robohash.org/repellendusvoluptasaut.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/repellendusvoluptasaut.png?size=50x50&set=set1",
       "first_name": "Salli",
       "last_name": "O'Scollain",
       "email": "soscollain1b@cnbc.com",
@@ -386,7 +416,8 @@ allData() {
     },
     {
       "id": "b32ec56c-21bb-4b7b-a3a0-635b8bca1f9d",
-      "avatar": "https://robohash.org/namquasioccaecati.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/namquasioccaecati.png?size=50x50&set=set1",
       "first_name": "Silvana",
       "last_name": "Saull",
       "email": "ssaull1c@tripod.com",
@@ -394,7 +425,8 @@ allData() {
     },
     {
       "id": "ba54f8c5-b290-41e7-a274-d6ae9c5d96e4",
-      "avatar": "https://robohash.org/temporadignissimosnon.png?size=50x50&set=set1",
+      "avatar":
+          "https://robohash.org/temporadignissimosnon.png?size=50x50&set=set1",
       "first_name": "Druci",
       "last_name": "Braunes",
       "email": "dbraunes1d@reuters.com",
